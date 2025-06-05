@@ -43,6 +43,7 @@ body{
 }
 .greetings > span:nth-child(6){
     animation-delay: 1.0s;
+}
 
 .description{
     font-size: 1.5rem;
